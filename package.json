@@ -1,0 +1,15 @@
+{
+  "name": "popcornblogs_ui",
+  "version": "1.0.0",
+  "description": "ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server.js"
+  },
+  "author": "Parth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
